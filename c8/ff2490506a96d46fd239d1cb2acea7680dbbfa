@@ -1,0 +1,31 @@
+.gitattributes
+  s_f1a1a9c88459d3::t_9f9547d3c7a2a1 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "c8ff2490506a96d46fd239d1cb2acea7680dbbfa",
+  "prompts": {},
+  "sessions": {
+    "s_f1a1a9c88459d3": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6aa18bb19fd4b96fb538906b",
+        "model": "DeepSeek-V4-Pro-Official__dev"
+      },
+      "human_author": "yueh <yueh417@gmail.com>",
+      "custom_attributes": {
+        "operation_id": "6aa18eae9fd4b96fb53890a4",
+        "runtime_client": "trae-tob-git-ai",
+        "edit_kind": "bash",
+        "tool_use_id": "6aa18eae9fd4b96fb53890a4",
+        "tool_name": "RunCommand",
+        "external_session_id": "6aa18bb19fd4b96fb538906b",
+        "client_type": "ide",
+        "session_id": "6aa18bb19fd4b96fb538906b",
+        "display_model_name": "DeepSeek-V4-Pro 正式版",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
